@@ -5,10 +5,10 @@
 *
 * Return: Always 0 (Success)
 */
-int main(void) 
-{  
+int main(void)
+{
 char a; 
-int b; 
+int b;
 long int c;
 long long int d; 
 float e;
