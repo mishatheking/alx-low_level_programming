@@ -11,7 +11,7 @@
 * Return: 0 for success
 */
 
-int main(void) 
+int main(void)
 {
 int num = 48;
 while (num <= 57)
