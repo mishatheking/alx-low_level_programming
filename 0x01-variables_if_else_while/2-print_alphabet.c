@@ -12,14 +12,14 @@
 * Return: 0 for success
 */
 
-int main(void) 
+int main(void)
 {
-char letter = 'a';   
-while (letter <= 'z')   
-{    
+char letter = 'a';
+while (letter <= 'z')
+{
 putchar(letter);
-letter++;  
-} 
-putchar('\n'); 
-return (0); 
+letter++;
+}
+putchar('\n');
+return (0);
 }
