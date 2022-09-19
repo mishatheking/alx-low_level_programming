@@ -1,0 +1,1 @@
+poinnter, array  and strings 
