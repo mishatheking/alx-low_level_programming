@@ -23,6 +23,7 @@ else
 {
 return (helper(n, result + 1));
 }
+}
 
 /**
 * _sqrt_recursion - natural square root of a number
