@@ -45,7 +45,7 @@ while (sum / 2)
 sum -= 2;
 coins++;
 }
-coins += sum
+coins += sum;
 printf("%d\n", coins);
 return (0);
 }
