@@ -35,7 +35,7 @@ for (k = 0; k < i; k++)
 }
 for (x = 0; x < j; x++)
 {
-*(p + (i + x)) = *(s2 + l);
+*(p + (i + x)) = *(s2 + x);
 }
 p[i + j] = '\0';
 return (p);
