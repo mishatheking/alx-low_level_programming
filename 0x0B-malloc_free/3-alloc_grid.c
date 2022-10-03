@@ -33,7 +33,7 @@ free(s[i]);
 }
 free(s);
 return (NULL);
-{
+}
 for (j = 0; j < width ; j++)
 {
 s[i][j] = 0;
